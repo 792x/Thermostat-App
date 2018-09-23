@@ -1,5 +1,5 @@
 # Thermostat-App
-Simple Android thermostat app using a mock server.
+Simple Android thermostat app using a server and REST API.
 
 ![alt text](https://i.imgur.com/Fg5A9yl.png)
 App layout with drawer menu
